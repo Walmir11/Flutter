@@ -21,4 +21,6 @@ void main(List<String> arguments) {
 
   //Retorna o se o valor é ímpar
   print(numero1.isOdd);
+
+  print(lista1);
 }
